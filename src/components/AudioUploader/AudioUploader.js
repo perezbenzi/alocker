@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { storage } from './Firebase';
+import { storage } from '../../Firebase';
 
 const AudioUploader = () => {
   const [file, setFile] = useState(null);
