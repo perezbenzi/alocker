@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Additional Information
+
+For this project, the Material-UI library was used to create the user interface components. Material-UI provides a set of pre-styled components and themes based on the Material Design guidelines. You can find more information about Material-UI and its usage in the Material-UI documentation.
+
+Feel free to customize and enhance the project according to your needs. If you encounter any issues or need further assistance, refer to the official documentation for troubleshooting tips.
